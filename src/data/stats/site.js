@@ -6,7 +6,7 @@ const data = [
   {
     label: 'Number of new books released on Amazon today',
     key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    link: 'https://github.com/eshatzky/personal-site-main',
   },
 ];
 

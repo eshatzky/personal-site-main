@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Eric and I&apos;m a data science enthusiast.
-        I am also a teacher, children&apos;s book author and a guccilicious dad.
+        I am also a teacher, children&apos;s book author and dad to a real life princess.
       </p>
       <ul className="actions">
         <li>
@@ -31,7 +31,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Eric Shatzky <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Eric Shatzky <Link to="/">ericshatzky.com</Link>.</p>
     </section>
   </section>
 );
